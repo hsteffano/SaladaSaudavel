@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_nutricional.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\src\\main\\res\\menu\\menu_nutricional.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_home.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\src\\main\\res\\menu\\menu_home.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_list.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\src\\main\\res\\menu\\menu_list.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_dados.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\src\\main\\res\\menu\\menu_dados.xml"
+    }
+]

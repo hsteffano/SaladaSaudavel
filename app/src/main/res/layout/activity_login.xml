@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:id="@+id/et_login"
+        android:layout_above="@+id/et_senha"
+        android:layout_centerHorizontal="true"
+        android:hint="Login"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:id="@+id/et_senha"
+        android:layout_above="@+id/bt_login"
+        android:layout_centerHorizontal="true"
+        android:hint="Senha"
+        android:inputType="textPassword" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:id="@+id/bt_login"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/et_login"
+        android:layout_alignStart="@+id/et_login"
+        android:background="@drawable/button_default"
+        android:textStyle="bold"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registrar"
+        android:id="@+id/bt_registro"
+        android:layout_alignTop="@+id/bt_login"
+        android:layout_alignRight="@+id/et_senha"
+        android:layout_alignEnd="@+id/et_senha"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:background="@drawable/button_default" />
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\icone_new.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\src\\main\\res\\mipmap-mdpi\\icone_new.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\icone.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\src\\main\\res\\mipmap-mdpi\\icone.png"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Documents\\AndroidStudioProjects\\SaladaSaudavel\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
